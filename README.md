@@ -1,10 +1,10 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="250" alt="coding-time" src="https://media.tenor.com/GxAEb8wQzSUAAAAC/urahara.gif">
+    <img align="center" height="250" alt="coding-time" src="./img/urahara.gif>
       </div>
     
 </br>
-<img src= ""
+<img src="./img/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #
 # Hi there 👽, I am Marcelo 
