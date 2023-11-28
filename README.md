@@ -23,9 +23,6 @@
 <img width="60" src="https://cdn.shopify.com/s/files/1/0275/0716/3203/files/THMlogo-gray_scale_824x.png?v=1614347081"/><a href = "https://app.hackthebox.com/profile/1090810
 /"> <img width="120" src="https://doimages.nyc3.digitaloceanspaces.com/hackthebox-logo@4x.png"/>
 
-</br>
-<img src="./img/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-
 #
 # TECHNOLOGIES
 <div style="display; inline_block"><br/><img olign="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><img olign="center" alt="github" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img olign="center" alt="github" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/><img olign="center" alt="github" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/><img olign="center" alt="github" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img olign="center" alt="github" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
